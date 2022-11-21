@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-	base: 'Pixel-draw/'
+	base: '/1-javascript-pixel-draw/'
 })
